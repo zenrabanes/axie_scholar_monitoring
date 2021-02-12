@@ -1,6 +1,9 @@
 # axie_scholar_monitoring
 
-A new Flutter application.
+Monitoring application for Axie Scholars.
+
+Founded by Raymund Raffinan
+Philippines
 
 ## Getting Started
 
