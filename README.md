@@ -1,9 +1,15 @@
-# axie_scholar_monitoring
+# Axie Scholar Monitoring
 
 Monitoring application for Axie Scholars.
+Availbe in iOS and Android.
 
-Founded by Raymund Raffinan
-Philippines
+Key features
+-Add Scholars
+-View SLP Balance
+-Top Scholars
+
+
+Founded by Dr. Raymund Raffinan, Phd
 
 ## Getting Started
 
